@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to SKD Bank accounts service, environment - PROD "
   contactDetails:
     name: "Sumeet Dwivedi - Developer"
-    email: "sumeet@skdbank.com"
+    email: "{cipher}506476a5d7704744d168e9c6b7a5b05665c3efaa1744ba9375cd1fa3637733ba9be6047300c90f71f7a2d1a5aa289fd8"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
