@@ -10,9 +10,3 @@ accounts:
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
-spring:
-  datasource:
-    url: jdbc:mysql://accountsdb:3306/accounts
-    username: root
-    password: root
-    driver-class-name : com.mysql.cj.jdbc.Driver
