@@ -10,3 +10,10 @@ loans:
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
+
+spring:
+  datasource:
+    url: jdbc:mysql://loansdb:3306/loans
+    username: root
+    password: root
+    driver-class-name : com.mysql.cj.jdbc.Driver
