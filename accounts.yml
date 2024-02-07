@@ -3,7 +3,7 @@ build:
   info: 0.0.1-SNAPSHOT
 
 accounts:
-  message: "Welcome to SKD Bank accounts service, environment - locals "
+  message: "Welcome to SKD Bank accounts service, environment - local "
   contactDetails:
     name: "Sumeet Dwivedi - Developer"
     email: "{cipher}506476a5d7704744d168e9c6b7a5b05665c3efaa1744ba9375cd1fa3637733ba9be6047300c90f71f7a2d1a5aa289fd8"
